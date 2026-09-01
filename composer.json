@@ -1,0 +1,12 @@
+{
+  "name": "credencial/app",
+  "description": "Sistema local para emissão de credenciais IDOSO/PCD com PDF overlay",
+  "type": "project",
+  "require": {
+    "setasign/fpdf": "^1.8",
+    "setasign/fpdi": "^2.6"
+  },
+  "autoload": {
+    "psr-4": {}
+  }
+}
